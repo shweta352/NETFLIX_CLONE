@@ -75,9 +75,9 @@ This project is a Netflix clone featuring user authentication, a movie search ba
 Feel free to contribute to this project by forking the repository and submitting pull requests.
 
 ## Author
-- *Siddhant Phule*  
-  - GitHub: [Siddhant209](https://github.com/Siddhant209)
-  - LinkedIn: [Siddhant Phule](https://www.linkedin.com/in/siddhant-phule)
+- *Shweta Pawar*  
+  - GitHub: [shweta523](https://github.com/Siddhant209)
+  - LinkedIn: [Shweta Pawar](https://www.linkedin.com/in/siddhant-phule)
 
 ## License
 This project is licensed under the MIT License.
