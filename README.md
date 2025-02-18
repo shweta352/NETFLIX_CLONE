@@ -33,7 +33,7 @@ This project is a Netflix clone featuring user authentication, a movie search ba
 ## Installation
 1. Clone the repository:
    sh
-   git clone https://github.com/Siddhant209/NETFLIX-Clone-OTT-web.git
+   git clone https://github.com/shweta352/NETFLIX_CLONE.git
    
 2. Navigate to the project directory:
    sh
