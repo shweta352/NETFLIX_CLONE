@@ -76,7 +76,7 @@ Feel free to contribute to this project by forking the repository and submitting
 
 ## Author
 - *Shweta Pawar*  
-  - GitHub: [shweta352](https://github.com/Siddhant209)
+  - GitHub: [shweta352](https://github.com/shweta352/NETFLIX_CLONE.git)
   - LinkedIn: [Shweta Pawar](http://linkedin.com/in/shweta-pawar-a23392350)
 
 ## License
