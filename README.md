@@ -76,7 +76,7 @@ Feel free to contribute to this project by forking the repository and submitting
 
 ## Author
 - *Shweta Pawar*  
-  - GitHub: [shweta523](https://github.com/Siddhant209)
+  - GitHub: [shweta352](https://github.com/Siddhant209)
   - LinkedIn: [Shweta Pawar](https://www.linkedin.com/in/siddhant-phule)
 
 ## License
